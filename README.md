@@ -4,6 +4,13 @@
 
 `Flutter` `Dart` `Material`
 
+<p align="center">
+  <img src="screenshots/main.png" width="200" alt="Medinow">
+  <img src="screenshots/mind_relax.png" width="200" alt="Mind Deep Relax">
+  <img src="screenshots/organizer.png" width="200" alt="Organizer">
+  <img src="screenshots/course.png" width="200" alt="3D Design Basic">
+</p>
+
 ## Что сделано
 - **Medinow: экран авторизации** (`main.dart`): название и подзаголовок, кнопки входа через Apple, Email/Phone и Google, иллюстрация
 - **Mind Deep Relax: экран курса медитаций** (`mind_relax.dart`): обложка, автор, описание, кнопка следующей сессии, список занятий с аватарами и кнопками воспроизведения
